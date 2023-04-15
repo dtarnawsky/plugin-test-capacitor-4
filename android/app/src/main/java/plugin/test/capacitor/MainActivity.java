@@ -1,4 +1,4 @@
-package capacitor.v4.sample;
+package plugin.test.capacitor;
 
 import com.getcapacitor.BridgeActivity;
 
